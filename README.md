@@ -1,4 +1,2 @@
 # ancestry-estimator
-Project I completed in 2022, back when I first learned to program.
-
-*I am still working on copying the code into Github. I lost access to the code, so I am doing my best to find it again. Apologies for the delay.*
+Project I completed in 2022, back when I first learned to program. It worked on my computer back then, but unfortunately I lost access to many of the secondary files that are needed to make it run now. It probably would have been useful to know about GitHub back then.
